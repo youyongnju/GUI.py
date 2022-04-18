@@ -1,0 +1,3 @@
+http://c.biancheng.net/view/2690.html
+https://blog.csdn.net/hehuii/article/details/103165512
+pyinstaller -F -i "icon.ico" -w gui.py

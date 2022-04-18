@@ -1,0 +1,2 @@
+pip install sqlalchemy -i https://pypi.tuna.tsinghua.edu.cn/simple                   安装库
+python.exe -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple --upgrade pip    升级pip
